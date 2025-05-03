@@ -36,13 +36,13 @@ pip install -r requirements.txt
 ### 🚀 Usage
 
 ```bash
-python main.py '<URL>' output.csv
+python main.py 'URL' output.csv
 ```
 
 **Example:**
 
 ```bash
-python main.py 'https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=1&xobec=0&xvyber=6203' vysledky.csv
+python main.py 'https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=9&xnumnuts=5303' results.csv
 ```
 
 ---
