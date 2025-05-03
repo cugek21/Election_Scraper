@@ -185,5 +185,3 @@ if __name__ == '__main__':
         PARTY_NAME_SELECTOR,
         CSV_HEADERS
         )
-
-#url = 'https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=9&xnumnuts=5303'
