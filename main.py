@@ -3,8 +3,6 @@ main.py: třetí projekt do Engeto Online Python Akademie
 
 author: Radek Jíša
 email: radek.jisa@gmail.com
-
-!!! VYTVORIT NOVY REPOZITAR !!!
 """
 
 
