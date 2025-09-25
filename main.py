@@ -2,9 +2,6 @@
 Entry point for the election scraper project.
 Handles argument parsing, version check, and orchestrates
 scraping and CSV export.
-
-author: Radek Jíša
-email: radek.jisa@gmail.com
 """
 
 import sys

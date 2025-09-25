@@ -61,5 +61,4 @@ The resulting CSV file contains columns:
 
 ## 📄 Author
 
-Radek Jíša  
-radek.jisa@gmail.com
+Radek Jíša
